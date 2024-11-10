@@ -1,7 +1,9 @@
 # AI Policy Fellowships
 A curated list of fellowships for graduate students and early/mid-career professionals seeking experience in AI policy. List created by [Chinasa T. Okolo, Ph.D.](http://www.chinasatokolo.com), a Computer Science PhD graduate from Cornell and fellow at the Brookings Institution, the world's leading think tank. 
 
-Over the past few years, opportunities have grown to provide those with scientific and technical training opportunities to contribute to informing and shaping policy. As AI applications, particularly generative AI, have become prominent, a number of opportunities have increasingly become focused on AI policy. As a trained computer science who pivoted into global AI policy, I wanted to crowdsource resources and opportunities for those interested in making similar moves. I hope this is helpful!
+Over the past few years, opportunities have grown to provide those with scientific and technical training opportunities to contribute to informing and shaping policy. As AI applications, particularly generative AI, have become prominent, a number of opportunities have increasingly become focused on AI policy. 
+
+As a trained computer scientist who pivoted into global AI policy, I wanted to crowdsource resources and opportunities for those interested in making similar moves. I hope this is helpful!
 
 ## Fellowships 
 | Organization          | Program      |
