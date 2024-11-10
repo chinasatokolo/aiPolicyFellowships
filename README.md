@@ -8,6 +8,7 @@ As a trained computer scientist who pivoted into global AI policy, I wanted to c
 ## Fellowships 
 | Organization          | Program      |
 | ------------- |:-------------:|
+| American Academy of Arts and Sciences | [Hellman and Simons Fellowship in Science and Technology Policy](https://www.amacad.org/about/fellowships) | 
 | American Association for the Advancement of Science (AAAS) | [STPF Rapid Response Cohort in AI](https://www.aaas.org/ai-stpf-cohort) |
 | Council on Foreign Relations | [Technologist-in-Residence Fellowship](https://www.cfr.org/fellowships/technologist-residence) |
 | Google | [Public Policy Fellowship](https://www.google.com/policyfellowship/) |
