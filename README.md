@@ -15,6 +15,7 @@ As a trained computer scientist who pivoted into global AI policy, I wanted to c
 | Horizon Institute for Public Service | [Horizon Fellowship](https://horizonpublicservice.org/programs/become-a-fellow/) |
 | Institute for Defense Analyses (IDA) | [Science and Technology Policy Institute Fellowship](https://www.ida.org/en/careers/students-and-recent-graduates/internships-and-fellowships/science-policy-fellowship) |
 | Institute for AI Policy and Strategy (IAPS) | [AI Policy Fellowship](https://www.iaps.ai/fellowship)|
+| NAACP Legal Defense & Educational Fund | [Digital Justice Fellowship](https://www.naacpldf.org/about-us/fellowships-internships/digital-justice-fellow/) |
 | NobleReach Foundation | [NobleReach Scholars Program](https://noblereachfoundation.org/talent-opportunities/scholars-program/) |
 | RAND Corporation | [Technology and Security Policy Fellowship](https://www.rand.org/global-and-emerging-risks/centers/technology-and-security-policy/fellows.html) |
 | TechCongress | [TechCongress Fellowship](https://www.techcongress.io/) |
